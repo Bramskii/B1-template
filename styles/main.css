@@ -239,9 +239,9 @@ footer{
   font-family: 'Heartbeat';
   src:  url('fonts/heartbeat.eot') format('eot'),
         url('fonts/heartbeat.otf') format('otf'),
-        url('fonts/heartbeat.woff') format('woff'),
         url('fonts/heartbeat.svg') format('svg'),
-        url('fonts/heartbeat.ttf') format('ttf');
+        url('fonts/heartbeat.tff') format('tff'),
+        url('fonts/heartbeat.woff') format('woff');
 }
 
 /*
